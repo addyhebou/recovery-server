@@ -38,3 +38,4 @@ All routes except `/api/health` and `/api/login` need `Authorization: Bearer <to
 | DELETE | `/api/logs/:id` | |
 
 Settings are stored as one JSON blob, so adding calculator fields never needs a migration.
+# recovery-server
